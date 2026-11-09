@@ -480,5 +480,5 @@ export const MEGAPROJECT: MegaStage[] = [
   { name: 'Ignite the Gateway', desc: 'Install the warp cores and ignite the Gateway.', credits: 60000000, res: { warpcore: 100, exotic: 400 } },
 ];
 
-export const START_CREDITS = 500;
+export const START_CREDITS = 1000000000000;
 export const MAX_LOG = 40;
